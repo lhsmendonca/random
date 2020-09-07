@@ -12,7 +12,7 @@
         -->
     </head>
     <body>
-        <div id="container">
+        <div>
             <div>1.Fuck you!</div>
             <div>2.Fuck you!</div>
             <div>3.Fuck you!</div>
